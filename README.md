@@ -8,8 +8,7 @@ I'm an enthusiast of data-driven solutions.
 
 My other passions are neuroscience, philosophy, and environmental protections
 
-[![Salvatore's github stats](https://github-readme-stats.vercel.app/api?username=salvatorecorsaro&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Salvatore's github stats](https://github-readme-stats.vercel.app/api?username=salvatorecorsaro&theme=blue-green)]
 ![1](https://github-readme-stats.vercel.app/api/top-langs/?username=salvatorecorsaro&theme=blue-green)
 
 
